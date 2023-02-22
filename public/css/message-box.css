@@ -7,15 +7,6 @@
 	color: var(--color-gray-90);
 	padding: 1em 0.625em; /* 16px 10px /16 */
 }
-.message-box::after {
-	content: "";
-	background-color: var(--color-message-box);
-	background-image: url('../img/bg/omardmapold.jpg');
-	background-size: cover;
-	opacity: 0.075;
-	position: fixed;
-	z-index: -1;   
-  }
 .message-box ol {
 	margin-top: 0;
 }
