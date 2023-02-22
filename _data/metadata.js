@@ -1,11 +1,11 @@
 module.exports = {
-	"title": "Eleventy Base Blog v8",
-	"url": "https://example.com/",
+	"title": "Omard.info",
+	"url": "https://omard.info/",
 	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"description": "This is a site dedicated to discovering and preserving the area history of Omard, Michigan—an unincorporated community located in the Thumb of Michigan.",
 	"author": {
-		"name": "Your Name Here",
-		"email": "youremailaddress@example.com",
-		"url": "https://example.com/about-me/"
+		"name": "Collin",
+		"email": "contact@omard.info",
+		"url": "https://omard.info/about"
 	}
 }
