@@ -1,5 +1,5 @@
 module.exports = {
-	"title": "🛤 Omard, Michigan",
+	"title": "🛤 Omard, Michigan &mdash; omard.info",
 	"url": "https://omard.info/",
 	"language": "en",
 	"description": "This is a site dedicated to discovering and preserving the area history of Omard, Michigan—an unincorporated community located in the Thumb of Michigan.",
